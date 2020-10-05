@@ -1,0 +1,64 @@
+.discussion {
+  max-width: 600px;
+  margin: 0 auto;
+  /* display: flex;
+    flex-flow: column wrap; */
+  /* overflow-y: visible; */
+}
+
+.bubble {
+  border-radius: 1em;
+  padding: 0.25em 0.75em;
+  margin: 0.0625em;
+  max-width: 50%;
+  color: #ffffff;
+  background-color: blue;
+}
+
+.card {
+  height: 300px;
+  border-radius: 15px !important;
+  /* background-color: rgba(0, 0, 0, 0.4) !important; */
+}
+.msg_card_body {
+  overflow-y: auto;
+}
+
+.img_cont_msg {
+  height: 40px;
+  width: 40px;
+}
+
+.user_img_msg{
+    height: 40px;
+    width: 40px;
+    border:1.5px solid #f5f6fa;
+
+}
+
+.msg_cotainer {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 10px;
+  border-radius: 25px;
+  background-color: #82ccdd;
+  padding: 10px;
+  position: relative;
+}
+.msg_time {
+  position: absolute;
+  left: 0;
+  bottom: -15px;
+  color:black;
+  font-size: 10px;
+}
+
+.dot {
+  height: 15px;
+  width: 15px;
+  border-style: solid;
+  border-width: thin;
+  background-color: red;
+  border-radius: 50%;
+  display: inline-block;
+}
