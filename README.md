@@ -7,7 +7,7 @@ socket.io
 
 
 ### In-Progress
-Testing : Jest
-CSS preprocessor : SASS
-Type checking: Typescript
+Testing : Jest<br/>
+CSS preprocessor : SASS<br/>
+Type checking: Typescript<br/>
 Deploy Netlify
