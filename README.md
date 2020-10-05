@@ -10,3 +10,4 @@ socket.io
 Testing : Jest
 CSS preprocessor : SASS
 Type checking: Typescript
+Deploy Netlify
